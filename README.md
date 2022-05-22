@@ -1,3 +1,4 @@
+
 # MLOps Zoomcamp
 
 <p align="center">
@@ -7,7 +8,7 @@
 </p>
 
 
-Our MLOps Zoomcamp course
+This is a course offered by DataTalks Club. In this repo there is their original documentation along with my 
 
 - Sign up here: https://airtable.com/shrCb8y6eTbPKwSTL (it's not automated, you will not receive an email immediately after filling in the form)
 - Register in [DataTalks.Club's Slack](https://datatalks.club/slack.html)
@@ -23,23 +24,6 @@ Our MLOps Zoomcamp course
 ### Objective
 
 Teach practical aspects of productionizing ML services — from collecting requirements to model deployment and monitoring.
-
-### Target audience
-
-Data scientists and ML engineers. Also software engineers and data engineers interested in learning about putting ML in production.
-
-### Pre-requisites
-
-* Python
-* Docker
-* Being comfortable with command line 
-* Prior exposure to machine learning (at work or from other courses, e.g. from [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp))
-* Prior programming experience (at least 1+ year)
-
-### Timeline
-
-Course start: 16 of May
-
 
 ## Syllabus
 
@@ -149,39 +133,6 @@ Possible candidates:
 
 - [Machine Learning Zoomcamp - free 4-month course about ML Engineering](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 - [Data Engineering Zoomcamp - free 9-week course about Data Engineering](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
-
-
-## FAQ
-
-**I want to start preparing for the course. What can I do?**
-
-If you haven't used Flask or Docker
-
-* Check [Module 5](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/05-deployment) form ML Zoomcamp
-* The [section about Docker](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_1_basics_n_setup/2_docker_sql) from Data Engineering Zoomcamp could also be useful
-
-If you have no previous experience with ML
-
-* Check [Module 1](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/01-intro) from ML Zoomcamp for an overview
-* [Module 3](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/03-classification) will also be helpful if you want to learn Scikit-Learn (we'll use it in this course)
-* We'll also use XGBoost. You don't have to know it well, but if you want to learn more about it, refer to [module 6](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/06-trees) of ML Zoomcamp
-
-
-**I registered but haven't received an invite link. Is it normal?**
-
-Yes, we haven't automated it. You'll get a mail from us eventually, don't worry.
-
-If you want to make sure you don't miss anything:
-
-* Register in [our Slack](https://datatalks.club/slack.html) and join the `#course-mlops-zoomcamp` channel
-* Subscribe to [our YouTube channel](https://youtube.com/c/datatalksclub)
-
-**Is it going to be live?**
-
-No and yes. There will be two parts:
-
-* Lectures: Pre-recorded, you can watch them when it's convenient for you. 
-* Office hours: Live on Mondays (17:00 CET), but recorded, so you can watch later.
 
 
 ## Partners
